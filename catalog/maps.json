@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
+  "catalog_version": 2,
   "maps": [
     {
       "id": "lethicerings",
@@ -35,6 +35,42 @@
       "previewUrl": "",
       "source_url": "",
       "permission_basis": "User-confirmed permission to redistribute",
+      "release_tag": "v1.0.0",
+      "version": "1.0.0"
+    },
+    {
+      "id": "immortals-progressive-tower",
+      "name": "Immortals Progressive Tower",
+      "author": "Lethamyr / Simple Shark / Mr. Swaggles",
+      "creator": "Lethamyr and collaborators",
+      "description": "Progress through 20 levels testing speed, timing, shot accuracy, aerial control, and boost management. Requires Map Expansion Plugin #294 for map-managed persistence.",
+      "filename": "ImmortalsProgressiveTower.zip",
+      "downloadUrl": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/ImmortalsProgressiveTower.zip",
+      "download_url": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/ImmortalsProgressiveTower.zip",
+      "sha256": "947584b09185d7019db4804a2e129fc5aceb7560fcb757abab8b7e81149a0eff",
+      "size_bytes": 62001838,
+      "fileSize": "59.1 MB",
+      "previewUrl": "https://images.squarespace-cdn.com/content/v1/5f17a7d895716766662f1c20/1689560747411-IMK7VJI2NACETVPCOB17/Teaser1.jpg?format=1500w",
+      "source_url": "https://lethamyr.com/maps/173",
+      "permission_basis": "Existing user-maintained Community Maps release asset",
+      "release_tag": "v1.0.0",
+      "version": "1.0.0"
+    },
+    {
+      "id": "immortals-progressive-island",
+      "name": "Immortals Progressive Island",
+      "author": "Lethamyr / Mr. Swaggles",
+      "creator": "Lethamyr and collaborators",
+      "description": "Open-world campaign featuring 8 zones, 32 levels, side quests, and secrets. Requires Map Expansion Plugin #294 for map-managed persistence.",
+      "filename": "ImmortalsProgressiveIsland.zip",
+      "downloadUrl": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/ImmortalsProgressiveIsland.zip",
+      "download_url": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/ImmortalsProgressiveIsland.zip",
+      "sha256": "d46a9d544580e883a549eaf73177c6b9e5b077a3c2f967b60a8e631b48c566d6",
+      "size_bytes": 393459892,
+      "fileSize": "375.1 MB",
+      "previewUrl": "https://lethamyr.com/storage/01J91TPG667XT4E9X50Z69F7YY.jpg",
+      "source_url": "https://lethamyr.com/maps/183",
+      "permission_basis": "Existing user-maintained Community Maps release asset",
       "release_tag": "v1.0.0",
       "version": "1.0.0"
     }
