@@ -1,5 +1,42 @@
 {
   "schema_version": 1,
   "catalog_version": 1,
-  "maps": []
+  "maps": [
+    {
+      "id": "lethicerings",
+      "name": "LethIceRings",
+      "author": "Lethamyr",
+      "creator": "Lethamyr",
+      "description": "Aerial navigation and air-roll practice through the Ice Rings course.",
+      "filename": "LethIceRings.zip",
+      "downloadUrl": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/LethIceRings.zip",
+      "download_url": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/LethIceRings.zip",
+      "sha256": "7a4cf6ae77307c46d494ee61215e7362ce106f765b0517e2355f5e81067653e2",
+      "size_bytes": 163856736,
+      "fileSize": "156.3 MB",
+      "previewUrl": "",
+      "source_url": "https://lethamyr.com/maps/34",
+      "permission_basis": "User-confirmed permission to redistribute",
+      "release_tag": "v1.0.0",
+      "version": "1.0.0"
+    },
+    {
+      "id": "thepath",
+      "name": "The Path",
+      "author": "Community contributor",
+      "creator": "Original map creator",
+      "description": "The Path workshop training map.",
+      "filename": "ThePath.zip",
+      "downloadUrl": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/ThePath.zip",
+      "download_url": "https://github.com/ZacharyChapman1996/RL-Community-Maps/releases/download/v1.0.0/ThePath.zip",
+      "sha256": "d58aa2462635e46861f01ed19865a445f3bf6bae7a9e8b0caaaa67e7df38eee5",
+      "size_bytes": 117290775,
+      "fileSize": "111.8 MB",
+      "previewUrl": "",
+      "source_url": "",
+      "permission_basis": "User-confirmed permission to redistribute",
+      "release_tag": "v1.0.0",
+      "version": "1.0.0"
+    }
+  ]
 }
